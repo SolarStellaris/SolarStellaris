@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SolarStellaris
+- 👋 Hi, I’m Jerome
 - 👀 I’m interested in Supply Chain Management, Data Science, Data Analytics, Lean Six Sigma, Project Management, & Programming
 - 🌱 I’m currently learning Data Science and Python
 - 📫 How to reach me: kylejerome0314@gmail.com
